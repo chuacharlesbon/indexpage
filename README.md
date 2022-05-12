@@ -10,3 +10,4 @@
 1. https://chuacharlesbon.github.io/indexpage/
 2. https://chuacharlesbon.github.io/indexpage/pages/login.html
 
+This page is static and non-responsive. 
